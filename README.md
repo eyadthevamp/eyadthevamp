@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eyadthevamp
+- 👋 Hi, I’m @eyad.dev
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
