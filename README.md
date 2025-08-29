@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @eyad.dev
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me to be a programmer
+- 👀 I’m interested in Python/Game dev
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on game dev groups
 
 <!---
 eyadthevamp/eyadthevamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
